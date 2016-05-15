@@ -5,3 +5,4 @@ def fib(n):
         a,b = b, a+b
 
 fib(20)
+print("Sabina was here")
